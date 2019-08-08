@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_horizontal_margin">16dp</dimen>
+    <dimen name="text_vertical_margin_large">24dp</dimen>
+    <dimen name="text_vertical_margin_standard">16dp</dimen>
+    <dimen name="deal_title_large">24sp</dimen>
+    <dimen name="travel_deal_text_price">18sp</dimen>
+    <dimen name="travel_deal_text_description">16sp</dimen>
+</resources>
